@@ -1,0 +1,8 @@
+{
+  "name": "XPLODE by MarufEdge",
+  "description": "A comprehensive business management system featuring core ERP modules (Finance, Inventory, Sales, HR, Procurement) and a robust file management system with version control and previews.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
